@@ -16,4 +16,6 @@ Project credit:
 
 Final project will include mobile and web applications with an integrated chatbot.
 
-User data is not stored for privacy.
+User data is not stored for privacy. User data is not included in the datasets for these models on this GitHub version.
+
+Note: The project's API secrets have been removed for obvious reasons.
