@@ -1,5 +1,7 @@
-# MenoLearn_Chatbot
-Chatbot for the MenoLearn menopause education project with the UCSD Cognitive Science Dept. using the ChatGPT API.
+# MenoLearn_Chatbot_RAG
+Chatbot for the MenoLearn menopause education project with the UCSD Cognitive Science Dept. using the ChatGPT API. This is the repo for the fine-tuning version of the model. The idea with this version is to add to GPT's pretraining with a curated dataset and special training.
+
+This will be compared with the RAG version later.
 
 PI: Dr. Mary E.T. Boyle
 Depts: Cognitive Science, Engineering
